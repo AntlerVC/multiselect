@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "elliptic": "^6.5.4",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "react-app-polyfill": "^1.0.0"
   },
   "alias": {
